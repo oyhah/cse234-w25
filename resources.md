@@ -39,7 +39,7 @@ We will gradually add more useful resources on this page.
 ## Materials
 
 ### Student Materials Folder
-We will post relevant materials in [this folder](https://drive.google.com/drive/folders/1MpKFgCy9CHFVZEXnizZ8JLM7DTU2sTwd?usp=sharing) throughout the quarter.
+We will post relevant materials in [this folder](#) throughout the quarter.
 
 ### Resources on Ray
 * [Ray documentation](https://docs.ray.io/en/latest/index.html)

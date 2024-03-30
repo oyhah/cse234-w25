@@ -20,41 +20,44 @@ description: >-
 
 The course is organized into four parts, covering the following topics.
 
-1. **Foundations of Data Systems**: Data models, big data storage and retrieval, and how to encode information when you store data. 
+1. **<Topic 1>**: topic 1 contents
+2. **<Topic 2>**: topic 2 contents
+
+<!-- 1. **Foundations of Data Systems**: Data models, big data storage and retrieval, and how to encode information when you store data. 
 2. **Scaling Distributed Systems**: Cluster, cloud, edge, network, replication, partition, consistency, ACID.
 3. **Data Processing and Programming model**: Batch processing, stream processing, MapReduce, Hadoop, Spark, Ray.
-4. **Machine Learning Systems**: GPUs, TensorFlow, PyTorch, data and model parallelism, LLM training and serving.
+4. **Machine Learning Systems**: GPUs, TensorFlow, PyTorch, data and model parallelism, LLM training and serving. -->
 
 
-A major component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch) and cloud resources (e.g., AWS/GCP).
+<!-- A major component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch) and cloud resources (e.g., AWS/GCP). -->
 
 ## Logistics
-- **Lectures**: MWF 10:00 AM - 10:50 AM.
-- **Location**: [PCYNH 122](https://maps.app.goo.gl/3xRUTjk3cyVA7wAr6).
+- **Lectures**: TuTh 05:00 PM - 06:20 PM.
+- **Location**: [MANDE B-150](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?s/MANDE_Main).
 - **Instructor**: [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/); Office: HDSI 440.
 
 ## Course Content and Format
 ### Lectures
-The class meets 3 times a week for 50-minute lectures in person.
-  - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically [podcast here](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00) afterward.
-  - There will be scribe notes required for each lecture. Students should form groups of 2 - 4 people and sign up one slot. See [details below](#scribe-notes).
+The class meets 2 times a week for 80-minute lectures in person.
+  - Attending the lectures is highly encouraged. All lectures will be automatically [podcast here](#) afterward.
   - There will be reading summary required per week. Everyone needs to submit their reading summary. See [details below](#reading-summary).
-  - We will use [Piazza](https://piazza.com/ucsd/winter2024/dsc204a) for asynchronous discussions and questions.
+  - We will use [Piazza](https://piazza.com/class/lubjeh3t5ns5wd) for asynchronous discussions and questions.
 
-### 3 Programming Assignments (PAs)
+<!-- ### 3 Programming Assignments (PAs)
   - See the [assignments page](assignments.md) for updates on the PA schedule and details.
-  - There are **no late days** for the PAs. Plan your work accordingly.
+  - There are **no late days** for the PAs. Plan your work accordingly. -->
 
 ### Exams
-  - To make your life easier: **There is NO midterm**. As an alternative, we ask for scribe notes and reading summary. 
-  - There will be a final exam. The final exam will be held as a Canvas Quiz. 
-  - Tentative date: **Friday, March 22, 8 - 11 am, PT**.
-  - The exams will have primarily multiple choice questions (MCQ). Quantitative/longer problems wil exist but only the final answer may need to be selected. Some questions will have partial credits.
-  - The guideline for time per question is a max of 1min per point. The points of each question will be calibrated accordingly.
+  - To make your life easier: **There is NO midterm**. As an alternative, we ask for reading summary. 
+  - There will be a final exam. The final exam will be held in person. 
+  - Tentative date: TBA.
+  - We will release more details about the exam near the end of the quarter.
+  <!-- - The exams will have primarily multiple choice questions (MCQ). Quantitative/longer problems wil exist but only the final answer may need to be selected. Some questions will have partial credits. -->
+  <!-- - The guideline for time per question is a max of 1 min per point. The points of each question will be calibrated accordingly. -->
   - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
-  - The final exam is open books/Web/etc. The only requirement is you should neither give nor receive help from anyone by any means.
+  <!-- - The final exam is open books. The only requirement is you should neither give nor receive help from anyone by any means. -->
 
-### Scribe notes
+<!-- ### Scribe notes
 Each student is required to scribe for a small number of lectures (most likely just 1). Most lectures will have at least 3 students acting as scribes, and they should work as a team. 
 During your assigned lectures, you are to take detailed notes in collaboration with your fellow scribes. 
 After the lecture, the scribe team is to convert their notes into LaTeX format using the provided template. 
@@ -68,30 +71,41 @@ You will receive zero credit if you fail to submit your notes.
   - Sign-up: [Spreadsheet](https://docs.google.com/spreadsheets/d/1aW8n-LadBWtrBHICvIJjZ4c8Xy623lSsTEeW4a0hbZ0/edit?usp=drive_link)
   - Template: [Overleaf latex template](https://www.overleaf.com/read/tfpkfgxxpgyd#91f059)
   - Submission: Submit a pull request to [course website repo](https://github.com/hao-ai-lab/dsc204a-w24) for review.
-  - Due: 11:59 pm PT of the day 10 days from the lecture
+  - Due: 11:59 pm PT of the day 10 days from the lecture -->
 
 ### Reading Summary
-Starting from the second week, the instructor/TA team will provide one required reading and multiple optional readings prior to each lecture. The required readings for this class are compulsory. The optional readings are highly recommended.
-At the end of each week, you are to submit a 2-page summary of the readings you have done for all the required readings of all lectures of the week. 
+Starting from the first week, the instructor/TA team will provide one required reading and multiple optional readings. The required readings for this class are compulsory. The optional readings are highly recommended.
+You need to submit a 1-page summary of the required reading you have done for each week. 
 These reading summaries are a requirement for this class, and they must be submitted via Gradescope by you in order to receive credit. 
-However, you have 5 grace days on which you can submit the summaries late via email (e.g. if you need to absent from class for whatever reason) with no penalty.
-Your summary should be written at a high level, and should focus on the main point of the readings (i.e. avoid complicated math). As long as your summary is reasonable, you will be given full credit.
-There will be no readings for the last week (March 11 - March 15) of the instruction. Hence, in total, you need to submit 8 reading summary (week 2 - week 9). 
+You are allowed a grace period of 5 days for late submission of each reading summary, during which no penalties wil be incurred. Gradescope will count the late days for late submissions.
+Your summary should be written at a high level, and should focus on the main points of the reading (i.e. avoid complicated math). As long as your summary is reasonable, you will be given full credit.
+In total, you need to submit 10 reading summary (week 1 - week 10). 
 
 You are encouraged to use ChatGPT to improve the writing of your summary; but you should avoid using software like ChatPDF to generate a summary without actually finishing any readings by yourself. 
 The TA team will perform quick scans on all summaries and contact you if they notice the summary seems to be entirely generated by ChatGPT (the writing style is easily detectable). 
   - Template: [NeurIPS format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles)
-  - Length: 2 pages
-  - Submission: [Gradescope](https://www.gradescope.com/courses/697914)
-  - Due: starting from the 2nd week, the summary of the week is due on Wednesday 11:59pm of the next week
+  - Length: 1 pages
+  - Submission: [Gradescope](https://www.gradescope.com/courses/760408)
+  - Due: starting from the first week, the summary of the week is due on Wednesday 11:59pm of the next week
 
+### In-class Quiz
+Starting from the second week, we will allocate 10 to 15 minutes at the beginning of one lecture each week for a short multiple-choice quiz. These quiz questions will be derived from materials covered in the preceding week's lectures. [The format of the quiz will be ....]
+
+### Peer Instruction
+To promote student involvement and discussion in this class, we will have paper presentation sessions led by students. 
+Each paper presentation should be roughly 20 minutes long.
+There will be in total [number of papers] papers to be presented by student groups during the lectures.
+You need to form a group of 3 to 4 students and sign up on this [spreadsheet] () by the end of the first week.
+Your grade for peer instruction will be given by your classmates. 
+At the end of each paper presentation session, we will collect scores from your classmates and use the mean score as your grade for peer instruction. We will release detailed rubric for peer instruction grading later to help you prepare for the paper presentations.
+  - Sign-up: [Spreadsheet] ()
 
 ### Participation
 We appreciate everyone being actively involved in the class! There are several ways of earning participation credit, which will be capped at 5%:
 
 - Piazza participation: The top ~20 contributors to Piazza will get 3%; others will get credit in proportion to the participation of the ~20th person. (To prevent abuse of the system, not all contributions are counted and instructors hold the right to determine to count contributions as positive or negative.)
 - Completing course evaluations: Around the middle and end of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing them is worth 1%.
-- Karma point: Any other act that improves the class, which a DSC204A TA or instructor notices and deems worthy: 1%.
+- Karma point: Any other act that improves the class, which a TA or instructor notices and deems worthy: 1%.
 
 ## Pre-requisites
 
@@ -103,10 +117,12 @@ We appreciate everyone being actively involved in the class! There are several w
 ## Grading
 
 ### Components 
-- Programming Assignments: 12% + 16% + 16%
-- Final Exam: 36%
-- Scribe Duties: 8%
-- Reading summary: 12%
+<!-- - Programming Assignments: 12% + 16% + 16% -->
+- Final Exam: 35%
+<!-- - Scribe Duties: 8% -->
+- Reading Summary: 10%
+- Peer Instruction: 20%
+- In-class Quiz: 30%
 - Extra Credit: 5%
 
 
