@@ -41,7 +41,7 @@ The course is organized into four parts, covering the following topics.
 The class meets 2 times a week for 80-minute lectures in person.
   - Attending the lectures is highly encouraged. All lectures will be automatically [podcast here](#) afterward.
   - There will be reading summary required per week. Everyone needs to submit their reading summary. See [details below](#reading-summary).
-  - We will use [Piazza](https://piazza.com/class/lubjeh3t5ns5wd) for asynchronous discussions and questions.
+  - We will use [Piazza](https://piazza.com/ucsd/spring2024/dsc291) for asynchronous discussions and questions.
 
 <!-- ### 3 Programming Assignments (PAs)
   - See the [assignments page](assignments.md) for updates on the PA schedule and details.
