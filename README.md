@@ -1,4 +1,4 @@
-# DSC 204A Winter 2024
+# DSC 291 ML Systems Spring 2024
 
 ## How to build locally
 
