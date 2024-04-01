@@ -11,7 +11,7 @@ Apr 2
 : **Survey**{: .label .label-lab} [Beginning of Quarter Survey](https://forms.gle/XMAjCkgpBhF7Kw8A8)
 
 Apr 4
-: **2**{: .label} TBD 
+: **2**{: .label} Basics: Deep learning, computational graph, autodiff, ML frameworks
   <!--: [Slides]() &#8226; [Recording]()-->
 : *Reading:* N/A
 <!--: **Homework**{: .label .label-homework} N/A-->

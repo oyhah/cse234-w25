@@ -5,5 +5,5 @@ pronouns: HE/HIM
 photo: staff/
 bio: 
 role: Teach Assistant
-office-hours: TBD
+office-hours: Tuesdays 3-4pm
 ---
