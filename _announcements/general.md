@@ -1,10 +1,11 @@
 ---
-title: Week 0 Announcements
-week: 0
-date: 2024-01-08
+title: Week 1 Announcements
+week: 1
+date: 2024-04-01
 ---
 
-* Welcome to the Spring 2024 offering of DSC 291!
+* Welcome to the Spring 2024 offering of DSC 291: Machine Learning Systems!
 * We're excited to work with you throughout the quarter!
-* Check back here for more updates soon!
-    * We'll be updating the pages of this site regularly in the first few weeks!
+* Check out the [tentative schedule](/dsc291-s24/schedule).
+* This is a new course offered for the first time at UCSD, hence we might adjust the schedule and content depending on your learning progress.
+* The first lecture starts on April 2nd, 5 pm at MANDE B-150.
