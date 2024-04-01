@@ -104,7 +104,7 @@ Starting from the second week, we will allocate 15 to 20 minutes at the beginnin
 ### Final Presentation
 Machine learning and systems (MLSys) is a fast-evolving area. One goal of this course is to help you develop analytic thinking on fast-evolving technologies, reason the strength and limitations of various projects, and even predict future technology trends.
 In this class, the instructor team will select 10 very popular projects in the history of ML systems. 
-You need to form a group of 4 - 6 students and sign up on this [spreadsheet]() by the end of the second week for a presentation at the last week of this quarter.
+You need to form a group of 4 - 6 students and sign up on this [spreadsheet](https://docs.google.com/spreadsheets/d/1foOkwrumTpuhd6xpNI0QHx9R31Biu-h0UdTp5wMItsQ/edit?usp=sharing) by the end of the second week for a presentation at the last week of this quarter.
 Each project presentation is 25 minutes long (20 minutes presentation + 5 mins Q&A). More instructions on how to prepare the presentation will be provided soon.
 
 You should spend a significant amount of time to prepare this talk, covering the following aspects and beyond:
