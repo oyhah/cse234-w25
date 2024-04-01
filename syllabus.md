@@ -119,7 +119,7 @@ You should spend a significant amount of time to prepare this talk, covering the
 At the end of this quarter, we will allocate all lecture slots as project presentation sessions led by students. Your grades for this project presentation will be given by both instructors and your peer students.
 We will collect scores from your classmates and use a linear combination of the grades given by instructors and your peer classmates as your final grade for this presentation. 
 We will release detailed rubric for peer presentation grading later to help you prepare for the paper presentations.
-  - Sign-up: [Spreadsheet] (https://docs.google.com/spreadsheets/d/1foOkwrumTpuhd6xpNI0QHx9R31Biu-h0UdTp5wMItsQ/edit?usp=sharing)
+  - Sign-up: [Spreadsheet](https://docs.google.com/spreadsheets/d/1foOkwrumTpuhd6xpNI0QHx9R31Biu-h0UdTp5wMItsQ/edit?usp=sharing)
 
 ### Participation
 We appreciate everyone being actively involved in the class! There are several ways of earning participation credit, which will be capped at 6%:
