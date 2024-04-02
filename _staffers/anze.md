@@ -5,5 +5,5 @@ pronouns: HE/HIM
 photo: staff/anze.jpg
 bio: Anze is a second-year master's student at the CSE department. His interests lie in large-scale machine-learning systems and algorithms. He is currently working in Prof. Hao Zhang's lab.
 role: Teach Assistant
-office-hours: TBD
+office-hours: Every Friday 3-4pm on Zoom
 ---
