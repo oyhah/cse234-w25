@@ -6,7 +6,7 @@ status: Active
 
 Apr 2
 : **1**{: .label} Introduction
-  <!--: [Slides]() &#8226; [Recording]()-->
+  : [Slides](assets/slides/1_Logistics.pdf) &#8226; [Recording]()
 : *Reading:* N/A
 : **Survey**{: .label .label-lab} [Beginning of Quarter Survey](https://forms.gle/XMAjCkgpBhF7Kw8A8)
 
