@@ -12,7 +12,7 @@ Apr 2
 
 Apr 4
 : **2**{: .label} Basics: Deep learning, computational graph, autodiff, ML frameworks
-  <!--: [Slides]() &#8226; [Recording]()-->
+  : [Slides](assets/slides/2_machine-learning-program.pdf) &#8226; [Recording]()
 : *Reading:* N/A
 <!--: **Homework**{: .label .label-homework} N/A-->
 
