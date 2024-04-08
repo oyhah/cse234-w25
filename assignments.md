@@ -66,3 +66,9 @@ nav_order: 980
     - If plagiarism is detected in your code or if any other form of academic integrity violation is identified, you will get zero for that component of your score and get downgraded substantially. I will also notify the University authorities for appropriate disciplinary action to be taken, up to and including expulsion from the University.
 - There are no late days for the programming assignments. So, plan your work accordingly! 
 -->
+<script src="../assets/darkmode.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", (event) => {
+    onLoad();
+});
+</script>
