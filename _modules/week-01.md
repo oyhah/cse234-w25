@@ -12,5 +12,5 @@ Apr 2
 
 Apr 4
 : **2**{: .label} Basics: Deep learning, computational graph, autodiff, ML frameworks - 1
-  : [Slides](assets/slides/2_machine-learning-program.pdf) &#8226; [Recording]()
+  : [Slides](assets/slides/2_machine-learning-program.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d01)
 : *Reading:* N/A
