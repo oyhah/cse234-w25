@@ -6,7 +6,7 @@ status: Active
 
 Apr 9
 : **3**{: .label} Basics: Deep learning, computational graph, autodiff, ML frameworks - 2
-  <!--: [Slides]() &#8226; [Recording]()-->
+  : [Slides](assets/slides/3_autodiff-and-mlsys-overview.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d02)
 : *Reading:* N/A
 * [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
 * [PyTorch Distributed: Experiences on Accelerating Data Parallel Training (optional)](https://arxiv.org/pdf/2006.15704.pdf)
