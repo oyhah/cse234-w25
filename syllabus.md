@@ -99,7 +99,7 @@ The TA team will perform quick scans on all summaries and contact you if they no
   - Due: starting from the second week, the summary of the week is due on **Tuesday 11:59pm** of the next week
 
 ### In-class Quiz
-Starting from the second week, we will allocate 15 to 20 minutes at the beginning of one lecture each week for a short multiple-choice quiz. These quiz questions will be derived from materials covered in the preceding week's lectures. [The format of the quiz will be ....]
+Starting from the second week, we will allocate 15 to 20 minutes at the beginning of one lecture each week for a short multiple-choice quiz. These quiz questions will be derived from materials covered in the preceding week's lectures.
 
 ### Final Presentation
 Machine learning and systems (MLSys) is a fast-evolving area. One goal of this course is to help you develop analytic thinking on fast-evolving technologies, reason the strength and limitations of various projects, and even predict future technology trends.
