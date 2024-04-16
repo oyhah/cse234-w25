@@ -20,9 +20,3 @@ Apr 18
 * [Matrix Multiplication Background User's Guide (required)](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
 
 
-<!-- Jan 26
-: **3**{: .label} 
-  <!-- : [Slides](assets/slides/7_cloud_computing.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/8) &#8226; [Scribe Notes](assets/scribe_notes/Jan_26_scribe_note.pdf) -->
-: *Reading:*
-* [GPU Performance Background User's Guide (required)](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html)
-* [Matrix Multiplication Background User's Guide (required)](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html) -->
