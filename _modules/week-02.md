@@ -13,7 +13,7 @@ Apr 9
 * [Petuum: A New Platform for Distributed Machine Learning on Big Data (optional)](https://arxiv.org/pdf/1312.7651.pdf)
 
 Apr 11
-: **4**{: .label} 
+: **4**{: .label} Acceleration and GPUs
   : [Slides](assets/slides/4_acceleration-and-gpus.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/4)
 : *Reading:*
 * [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
