@@ -14,7 +14,7 @@ Apr 16
 
 Apr 18
 : **2**{: .label} 
-  <!-- : [Slides](assets/slides/6_os-3.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/6) &#8226; [Scribe Notes](assets/scribe_notes/Jan_24_scribe_note.pdf) -->
+  : [Slides](assets/slides/6_gpus-compilation.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/6)
 : *Reading:*
 * [GPU Performance Background User's Guide (required)](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html)
 * [Matrix Multiplication Background User's Guide (required)](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
