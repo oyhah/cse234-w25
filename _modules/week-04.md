@@ -1,6 +1,6 @@
 ---
 title: Week 4
-class: DSC204A
+class: DSC291
 status: Active
 ---
 
