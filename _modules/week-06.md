@@ -1,6 +1,6 @@
 ---
 title: Week 6
-class: DSC204A
+class: DSC291
 status: Active
 ---
 
