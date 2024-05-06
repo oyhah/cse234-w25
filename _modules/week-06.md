@@ -6,7 +6,7 @@ status: Active
 
 May 7
 : **1**{: .label} 
-  : [Slides](#) &#8226; [Recording](#) &#8226;
+  : [Slides](#) &#8226; [Recording](#)
 : *Reading:*
 * [Everything about Distributed Training and Efficient Finetuning (required)](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
 
@@ -14,7 +14,7 @@ May 7
 
 May 9
 : **2**{: .label}  
-  : [Slides](#) &#8226; [Recording](#) &#8226;
+  : [Slides](#) &#8226; [Recording](#)
 : *Reading:* 
 * [Everything about Distributed Training and Efficient Finetuning (required)](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
 
