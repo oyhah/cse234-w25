@@ -6,7 +6,7 @@ status: Active
 
 May 7
 : **1**{: .label} Parallelization - 2
-  : [Slides](assets/slides/10_parallelization-2.pdf) &#8226; [Recording](#) &#8226;
+  : [Slides](assets/slides/10_parallelization-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/11)
 : *Reading:*
 * [Everything about Distributed Training and Efficient Finetuning (required)](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
 
@@ -14,7 +14,7 @@ May 7
 
 May 9
 : **2**{: .label}  Guest Talk by Jinliang Wei
-  : [Slides](#) &#8226; [Recording](#) &#8226;
+  : [Slides](#) &#8226; [Recording](https://drive.google.com/drive/folders/1L9SFeNvOW9V9HRBwk34-MF1XZIDyLw8u?usp=sharing)
 : *Reading:* 
 * [Everything about Distributed Training and Efficient Finetuning (required)](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
 
