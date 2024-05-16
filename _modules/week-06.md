@@ -14,7 +14,7 @@ May 7
 
 May 9
 : **2**{: .label}  Guest Talk by Jinliang Wei
-  : [Slides](#) &#8226; [Recording](#) &#8226;
+  : [Slides](#) &#8226; [Recording](https://drive.google.com/drive/folders/1L9SFeNvOW9V9HRBwk34-MF1XZIDyLw8u?usp=sharing)
 : *Reading:* 
 * [Everything about Distributed Training and Efficient Finetuning (required)](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
 
