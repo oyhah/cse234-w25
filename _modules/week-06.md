@@ -6,7 +6,7 @@ status: Active
 
 May 7
 : **1**{: .label} Parallelization - 2
-  : [Slides](assets/slides/10_parallelization-2.pdf) &#8226; [Recording](#) &#8226;
+  : [Slides](assets/slides/10_parallelization-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/11) &#8226;
 : *Reading:*
 * [Everything about Distributed Training and Efficient Finetuning (required)](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
 
