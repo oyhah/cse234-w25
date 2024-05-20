@@ -14,6 +14,14 @@ PA1: Auto Differentiation and Softmax Loss
 - Due Date: 05/12/2024
 - Upload tar to Gradescope
 
+PA2: Tensor Program Optimization
+- Release Data: Sunday, 05/19/2024
+- Starter code: [Github](https://github.com/hao-ai-lab/dsc291-PA)
+- Remember do **not** use a public repo for your solution!
+- Due Date: 06/02/2024
+- Upload tar to Gradescope
+
+
 <!--
  PA1: Getting Started with Modin and Ray
     - Release Date: Monday, 01/18/2024
