@@ -4,7 +4,7 @@ class: DSC291
 status: Active
 ---
 
-Feb 26
+May 21
 : **1**{: .label} 
   : [Slides]() &#8226; [Recording]() &#8226;
 : *Reading:* 
@@ -12,7 +12,7 @@ Feb 26
 
 
 
-Feb 28
+May 23
 : **2**{: .label} 
   : [Slides]() &#8226; [Recording]() &#8226; [Scribe Notes](assets/scribe_notes/Feb_28_scribe_note.pdf)
 : *Reading:* 
