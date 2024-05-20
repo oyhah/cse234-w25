@@ -13,6 +13,6 @@ May 14
 
 May 16 
 : **2**{: .label} Parallelization - 4
-  : [Slides](assets/slides/12_parallelization-4.pdf) &#8226; [Recording](#) &#8226;
+  : [Slides](assets/slides/12_parallelization-4.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/14) &#8226;
 : *Reading:* 
 * [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (required)](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf)
