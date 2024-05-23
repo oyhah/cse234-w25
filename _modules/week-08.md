@@ -6,15 +6,15 @@ status: Active
 
 May 21
 : **1**{: .label} 
-  : [Slides]() &#8226; [Recording]() &#8226;
+  : [Slides]() &#8226; [Recording]()
 : *Reading:* 
 * [The Illustrated Transformer (required)](https://jalammar.github.io/illustrated-transformer/)
 
 
 
 May 23
-: **2**{: .label} 
-  : [Slides]() &#8226; [Recording]() &#8226; [Scribe Notes](assets/scribe_notes/Feb_28_scribe_note.pdf)
+: **2**{: .label} LLM - 1
+  : [Slides](assets/slides/14_llm_1.pdf) &#8226; [Recording]()
 : *Reading:* 
 * [The Illustrated Transformer (required)](https://jalammar.github.io/illustrated-transformer/)
 
