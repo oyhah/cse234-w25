@@ -6,7 +6,7 @@ status: Active
 
 May 28 
 : **1**{: .label} LLM - 2
-  : [Slides](assets/slides/15_llm-2.pdf) &#8226; [Recording](#) &#8226; 
+  : [Slides](assets/slides/15_llm-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/17) &#8226; 
 : *Reading:*
 
 
@@ -14,7 +14,7 @@ May 28
 
 May 30
 : **2**{: .label}
-  : [Slides](#) &#8226; [Recording](h#) &#8226;
+  : [Slides](#) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/18) &#8226;
 : *Reading:* 
 
 
