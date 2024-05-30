@@ -14,7 +14,7 @@ May 28
 
 May 30
 : **2**{: .label}
-  : [Slides](#) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/18) &#8226;
+  : [Slides](assets/slides/16_llm-3.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/18) &#8226;
 : *Reading:* 
 
 
