@@ -21,6 +21,13 @@ PA2: Tensor Program Optimization
 - Due Date: 06/02/2024
 - Upload tar to Gradescope
 
+PA3: Tensor Parall Communication
+- Release Date: Wednesday 6/5/2024
+- Starter code: [Github](https://github.com/hao-ai-lab/dsc291-PA)
+- Remember do **not** use a public repo for your solution!
+- Due Date: 06/14/2024
+- Upload tar to Gradescope
+
 
 <!--
  PA1: Getting Started with Modin and Ray
