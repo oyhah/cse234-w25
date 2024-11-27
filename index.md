@@ -12,7 +12,7 @@ seo:
 # CSE 234: Machine Learning Systems
 
 {: .mb-2 }
-Instructor: Hao Zhang, UC San Diego, Spring 2024
+Instructor: Hao Zhang, UC San Diego, Winter 2025
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
