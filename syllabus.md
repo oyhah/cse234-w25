@@ -27,14 +27,15 @@ The course is organized into four parts, covering the following topics.
 There will also be multiple guest lectures from the inventors of those key techniques in ML systems. It is **mandatory** to attend all guest lectures.
 
 ## Logistics
-- **Lectures**: TuTh 05:00 PM - 06:20 PM.
-- **Location**: [MANDE B-150](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?s/MANDE_Main).
+- **Lectures**: TuTh 06:30 PM - 08:00 PM.
+- **Location**: [SOLIS 107](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/237105?s/solis).
 - **Instructor**: [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/); Office: HDSI 440.
 
 ## Pre-requisites
 This class is an interdisciplinary class covering many up-to-date topics and developments in machine learning and systems. If you have never taken any of the following classes (or equivalent), you might need to allocate more time to prepare yourself.
 - MATH 18 (Linear Algebra) or equivalent.
-- CSE 151B (Deep Learning) or equivalent.
+- CSE 151B (Deep Learning) or equivalent
+- CSE 132C or CSE 120 (Operating Systems) or equivalent.
 - DSC 102 (Systems for Scalable Analytics) or equivalent; or substantial practical experience with scalable data systems and ML algorithms, subject to the consent of the instructor.
 - Proficiency in Python programming.
 - Knowledge of deep learning and deep learning frameworks such as Tensor, PyTorch, HuggingFace.
@@ -48,8 +49,7 @@ The following courses are not prerequisites but highly preferred before you take
 ### Lectures
 The class meets 2 times a week for 80-minute lectures in person.
   - Attending the lectures is highly encouraged. There will be peer instruction quiz and activities to promote attendance. 
-  - All lectures will be automatically [podcast here](https://podcast.ucsd.edu/watch/sp24/dsc291_d00) afterward.
-  - There will be reading summary required per week. Everyone needs to submit their reading summary. See [details below](#reading-summary).
+  - All lectures will be automatically [podcast here](https://podcast.ucsd.edu/watch/wi25/cse234_b00) afterward.
   - We will use [Piazza](https://piazza.com/class/lubjeh3t5ns5wd/) for asynchronous discussions and questions.
 
 ### 3 Programming Assignments (PAs)
