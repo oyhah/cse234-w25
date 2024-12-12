@@ -9,7 +9,7 @@ seo:
   name: CSE 234 Winter 2025
 ---
 
-# CSE 234: Machine Learning Systems
+# CSE 234: Data Systems for Machine Learning
 
 {: .mb-2 }
 Instructor: Hao Zhang, UC San Diego, Winter 2025
