@@ -41,12 +41,12 @@ description: >-
 
 **A:** Suggested Textbooks
 
- - Recommended: Data Management in Machine Learning Systems, by Matthias Boehm, Arun Kumar, and Jun Yang ([https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057](Free ebook) via UCSD VPN).
+ - Recommended: *Data Management in Machine Learning Systems*, by Matthias Boehm, Arun Kumar, and Jun Yang ([Free ebook](https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057) via UCSD VPN).
  - Additional (optional) for background/foundations on the respective component areas:
- - Machine Learning, by Tom Mitchell (McGraw Hill).
- - Deep Learning, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press)
- - Database Management Systems, by Raghu Ramakrishnan and Johannes Gehrke (McGraw Hill)
- - Operating Systems: Three Easy Pieces, by Remzi and Andrea Arpaci-Dusseau ([https://pages.cs.wisc.edu/~remzi/OSTEP/](Free ebook)).
+   - *Machine Learning*, by Tom Mitchell (McGraw Hill).
+   - *Deep Learning*, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press)
+   - *Database Management Systems*, by Raghu Ramakrishnan and Johannes Gehrke (McGraw Hill)
+   - *Operating Systems: Three Easy Pieces*, by Remzi and Andrea Arpaci-Dusseau ([Free ebook](https://pages.cs.wisc.edu/~remzi/OSTEP/)).
 
 ## Course Support and Communication
 
