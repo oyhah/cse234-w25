@@ -14,9 +14,10 @@ description: >-
 
 **A:** You need to have completed either:
 
-An ML algorithms course (like CSE 151) AND
-Either a database systems internals course (like CSE 132C) OR an operating systems course (like CSE 120)
-Alternatively, DSC 102 satisfies both prerequisite requirements. Industry experience may be considered as a substitute with instructor approval.
+ - A course on ML algorithms (e.g., CSE 151) is absolutely necessary.
+ - A course on either database systems internals (e.g., CSE 132C) or operating systems (e.g., CSE 120) is also necessary.
+ - DSC 102 suffices as a perequisite for both of the above aspects.
+ - Substantial project or industrial experience on relevant topics can be substituted for prior coursework, subject to the instructor's consent. Email the instructor if you would like to enroll but are unsure if you satisfy the prerequisites.
 
 **Q: I have relevant industry experience but haven't taken the prerequisite courses. Can I still enroll?**
 
@@ -35,6 +36,17 @@ Alternatively, DSC 102 satisfies both prerequisite requirements. Industry experi
  - MS students
  - PhD students
  - Advanced undergraduate students who are interested in systems for scalable data science and ML engineering.
+  
+**Q: What are the suggested readings for this course?**
+
+**A:** Suggested Textbooks
+
+ - Recommended: Data Management in Machine Learning Systems, by Matthias Boehm, Arun Kumar, and Jun Yang ([https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057](Free ebook) via UCSD VPN).
+ - Additional (optional) for background/foundations on the respective component areas:
+ - Machine Learning, by Tom Mitchell (McGraw Hill).
+ - Deep Learning, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press)
+ - Database Management Systems, by Raghu Ramakrishnan and Johannes Gehrke (McGraw Hill)
+ - Operating Systems: Three Easy Pieces, by Remzi and Andrea Arpaci-Dusseau ([https://pages.cs.wisc.edu/~remzi/OSTEP/](Free ebook)).
 
 ## Course Support and Communication
 
