@@ -5,5 +5,5 @@ pronouns: HE/HIM
 photo: staff/abhilash.jpg
 bio: Abhilash is a first-year master's student in HDSI. His interests lie in Reasoning and efficient ML. He is currently working in Prof. Hao Zhang's lab.
 role: Teach Assistant
-office-hours: Every Monday 2-3 pm @TBD and [Zoom](https://ucsd.zoom.us/j/92291320637)
+office-hours: Every Monday 2-3 pm @TBD and <a href ="https://ucsd.zoom.us/j/92291320637">Zoom</a>
 ---
