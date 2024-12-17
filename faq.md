@@ -32,10 +32,9 @@ Alternatively, DSC 102 satisfies both prerequisite requirements. Industry experi
 
 **A:** The course is primarily tailored for:
 
-MS students
-PhD students
-Advanced undergraduate students
-who are interested in systems for scalable data science and ML engineering.
+ - MS students
+ - PhD students
+ - Advanced undergraduate students who are interested in systems for scalable data science and ML engineering.
 
 ## Course Support and Communication
 
