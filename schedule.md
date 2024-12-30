@@ -14,16 +14,21 @@ description: >-
 - The industry guest lectures are not included in the syllabus for the exams. But they will be the focus of the extra credit activities. 
 - Some topics may take a few weeks to cover.
 
-| Week | Topic                                                                  |
-|------|------------------------------------------------------------------------|
-| 1    | Basics: Introduction, ML lifecycle Overview, and Basics                |
-| 2-3  | Classical ML Training at Scale                                         |
-| 3-6  | DL Systems (including LLM & DLRM Systems)                              |
-| 7    | ML Deployment and MLOps (including LLMOps)                             |
-| 8    | Model Selection Systems                                                |
-| 9    | Data-Centric Issues in ML                                              |
-| 10   | ML Platforms and Feature Stores                                        |
-| 11   | Final Exam: March 18 7-10pm                                            |
+| Week | Topic                                                                   |
+|------|-------------------------------------------------------------------------|
+| 1-2  | Basics: Deep learning, computational graph, autodiff, ML frameworks     |
+| 3    | GPUs, CUDA, Communication                                               |
+| 4    | ML Compilation, graph optimizations                                     |
+| 4    | Guest lecture: TBD                                                      |
+| 5    | Communication and memory optimization, distributed ML, data parallelism |
+| 6    | Model parallelism, auto-parallelization                                 |
+| 7    | Transformers, LLMs, scaling law                                         |
+| 8    | LLM training, inference and serving, attention optimizations            |
+| 9    | Guest lecture: TBD                                                      |
+| 9    | Scaling Law                                                             |
+| 10   | LLM + X (X = database, search, vision, etc.)                            |
+| 10   | Final exam reviews                                                      |
+| 11   | Final exam                                                              |
 
 
 <script src="../assets/darkmode.js"></script>

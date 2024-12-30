@@ -1,16 +1,16 @@
 ---
 title: Week 1
-class: DSC291
+class: CSE234
 status: Active
 ---
 
-Apr 2
+Jan 7
 : **1**{: .label} Introduction
-  : [Slides](assets/slides/1_Logistics.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/1)
+  : [Slides](assets/slides/) &#8226; [Recording]()
 : *Reading:* N/A
-: **Survey**{: .label .label-lab} [Beginning of Quarter Survey](https://forms.gle/XMAjCkgpBhF7Kw8A8)
+: **Survey**{: .label .label-lab} [Beginning of Quarter Survey]()
 
-Apr 4
+Jan 9
 : **2**{: .label} Basics: Deep learning, computational graph, autodiff, ML frameworks - 1
-  : [Slides](assets/slides/2_machine-learning-program.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/2)
+  : [Slides](assets/slides/) &#8226; [Recording]()
 : *Reading:* N/A

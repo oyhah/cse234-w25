@@ -1,7 +1,7 @@
 ---
 title: Week 1 Announcements
 week: 1
-date: 2024-01-06
+date: 2024-01-07
 ---
 
 * Welcome to the Winter 2025 offering of CSE 234: Data Systems for Machine Learning!

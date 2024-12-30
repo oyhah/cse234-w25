@@ -21,7 +21,7 @@ description: >-
 **In this year of CSE234 offering, we will focus more on "ML systems" other than "data systems"**. 
 
 The course is organized into three parts, covering the following topics.
-1. **Basicss**: deep learning, autodiff, CUDA programming, ML hardware
+1. **Basics**: deep learning, autodiff, CUDA programming, ML hardware
 2. **ML systems and optimizations**: Dataflow graph systems, ML compilation, memory and graph optimization, ML parallelism, parallelization
 3. **LLM systems**: LLM training, data curation, inference and serving, attention optimization, scaling law, RAG
 
@@ -62,11 +62,10 @@ The class meets 2 times a week for 80-minute lectures in person.
   - To make your life easier: **There is NO midterm**. As an alternative, we ask for reading summary. 
   - There will be a final exam. The final exam will be held **in person**. Please plan accordingly. 
   - Exam date: March 18, 2025, 7-10 pm.
-  - We will release more details about the exam near the end of the quarter.
-  <!-- - The exams will have primarily multiple choice questions (MCQ). Quantitative/longer problems wil exist but only the final answer may need to be selected. Some questions will have partial credits. -->
-  <!-- - The guideline for time per question is a max of 1 min per point. The points of each question will be calibrated accordingly. -->
+  - The exams will **have and only have** multiple choice questions (MCQ), i.e. select one or multiple answers that all apply.
+  - The guideline for time per question is a max of 1 min per point. The points of each question will be calibrated accordingly.
   - If you miss the exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
-  <!-- - The final exam is open books. The only requirement is you should neither give nor receive help from anyone by any means. -->
+  - The final exam is close books, but you are allow to take as many cheat sheets as you need, but not phones or computers!
 
 ### Scribe notes
 Each student is required to scribe for a small number of lectures (most likely just 1). Most lectures will have at least 3 students acting as scribes, and they should work as a team. 

@@ -36,8 +36,7 @@ We will gradually add more useful resources on this page.
 ## Materials
 
 ### Student Materials Folder
-Coming soon...
-<!-- We will post relevant materials in [this folder](https://drive.google.com/drive/folders/19bMUUBX8CJTkG4o2vt9Z-ruobpYgtIL0?usp=drive_link) throughout the quarter. -->
+We will post relevant materials in [this folder](https://drive.google.com/drive/u/1/folders/18OskI3Q8Nw1j-Q25UaWbU-n-HcoqoBdQ) throughout the quarter.
 
 ## Exam Resources
 Coming soon...
