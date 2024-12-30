@@ -11,6 +11,6 @@ Jan 7
 : **Survey**{: .label .label-lab} [Beginning of Quarter Survey]()
 
 Jan 9
-: **2**{: .label} Basics: Deep learning, computational graph, autodiff, ML frameworks - 1
+: **2**{: .label} Basics: Modern DL, computational graph, autodiff, frameworks - 1
   : [Slides](assets/slides/) &#8226; [Recording]()
 : *Reading:* N/A
