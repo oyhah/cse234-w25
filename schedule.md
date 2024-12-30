@@ -14,21 +14,21 @@ description: >-
 - The industry guest lectures are not included in the syllabus for the exams. But they will be the focus of the extra credit activities. 
 - Some topics may take a few weeks to cover.
 
-| Week | Topic                                                                   |
-|------|-------------------------------------------------------------------------|
-| 1-2  | Basics: Deep learning, computational graph, autodiff, ML frameworks     |
-| 3    | GPUs, CUDA, Communication                                               |
-| 4    | ML Compilation, graph optimizations                                     |
-| 4    | Guest lecture: TBD                                                      |
-| 5    | Communication and memory optimization, distributed ML, data parallelism |
-| 6    | Model parallelism, auto-parallelization                                 |
-| 7    | Transformers, LLMs, scaling law                                         |
-| 8    | LLM training, inference and serving, attention optimizations            |
-| 9    | Guest lecture: TBD                                                      |
-| 9    | Scaling Law                                                             |
-| 10   | LLM + X (X = database, search, vision, etc.)                            |
-| 10   | Final exam reviews                                                      |
-| 11   | Final exam                                                              |
+| Week | Topic                                                                                 |
+|------|---------------------------------------------------------------------------------------|
+| 1-2  | Basics: Deep learning, computational graph, autodiff, ML frameworks                   |
+| 3    | GPUs, CUDA, Communication                                                             |
+| 4    | graph and memory optimizations                                                        |
+| 4    | Guest lecture: TBD                                                                    |
+| 5    | Data and model parallelism, auto-parallelization                                      |
+| 6    | Transformers, LLMs                                                                    |
+| 7    | LLM training: flash attention, quantization                                           |
+| 8    | LLM inference and serving: paged attention, continuous batching, speculative decoding |
+| 9    | Guest lecture: TBD                                                                    |
+| 9    | Scaling Law                                                                           |
+| 10   | LLM + X (X = database, search, vision, etc.)                                          |
+| 10   | Final exam reviews                                                                    |
+| 11   | Final exam                                                                            |
 
 
 <script src="../assets/darkmode.js"></script>
