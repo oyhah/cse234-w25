@@ -8,7 +8,7 @@ Jan 7
 : **1**{: .label} Introduction
   : [Slides](assets/slides/) &#8226; [Recording]()
 : *Reading:* N/A
-: **Survey**{: .label .label-lab} [Beginning of Quarter Survey]()
+: **Survey**{: .label .label-lab} [Beginning of Quarter Survey](https://forms.gle/4fuE1HUFbd13NKbp7)
 
 Jan 9
 : **2**{: .label} Basics: Modern DL, computational graph, autodiff, frameworks - 1
