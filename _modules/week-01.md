@@ -17,4 +17,4 @@ Jan 7
 Jan 9
 : **2**{: .label} Basics: Modern DL, computational graph, autodiff, frameworks - 1
   : [Slides](assets/slides/) &#8226; [Recording]()
-: **Readings**{: .label .label-reading}
+<!-- : **Readings**{: .label .label-reading} -->
