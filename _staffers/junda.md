@@ -1,5 +1,5 @@
 ---
-email: TBD
+email: junda@ucsd.edu
 name: Junda Chen
 pronouns: HE/HIM
 photo: staff/junda.jpg
