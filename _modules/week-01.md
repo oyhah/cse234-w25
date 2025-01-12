@@ -31,7 +31,7 @@ Jan 14
   * **Required**: 
     * [2.1 - TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695)
     * [2.2 - PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703)
-    * [2.3 - Automatic Differentiation in Machine Learning: a Survey (Page 1 - 14 (Chapter 1 - 3)](https://arxiv.org/pdf/1502.05767)
+    * [2.3 - Automatic Differentiation in Machine Learning: a Survey (Chapter 1 - 3)](https://arxiv.org/pdf/1502.05767)
   * **Optional**: 
     * [2.4(a) - Pytorch autodiff blogs: Overview of PyTorch Autograd Engine](https://pytorch.org/blog/overview-of-pytorch-autograd-engine/)
     * [2.4(b) - Pytorch autodiff blogs: How Computational Graphs are Constructed in PyTorch](https://pytorch.org/blog/computational-graphs-constructed-in-pytorch/)
