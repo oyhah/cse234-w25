@@ -29,12 +29,10 @@ Jan 14
   : Slides &#8226; Recording
 : **Readings**{: .label .label-reading} **(Due 1/21)**
   * **Required**: 
-    * [2.1 - TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695)
-    * [2.2 - PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703)
-    * [2.3 - Automatic Differentiation in Machine Learning: a Survey (Chapter 1 - 3)](https://arxiv.org/pdf/1502.05767)
+    * [2.1 - TensorFlow](https://arxiv.org/abs/1605.08695)
+    * [2.2 - AudoDiff (Chapter 1 - 3)](https://arxiv.org/pdf/1502.05767)
   * **Optional**: 
-    * [2.4(a) - Pytorch autodiff blogs: Overview of PyTorch Autograd Engine](https://pytorch.org/blog/overview-of-pytorch-autograd-engine/)
-    * [2.4(b) - Pytorch autodiff blogs: How Computational Graphs are Constructed in PyTorch](https://pytorch.org/blog/computational-graphs-constructed-in-pytorch/)
-    * [2.5 - DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/pdf/1701.03980)
+    * [2.3 - PyTorch](https://arxiv.org/abs/1912.01703)
+    * [2.4 - DyNet](https://arxiv.org/pdf/1701.03980)
 
 <!-- : **Readings**{: .label .label-reading} -->
