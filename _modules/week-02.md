@@ -5,7 +5,7 @@ status: Active
 ---
 
 Jan 14
-: **2**{: .label} Basics: autodiff, ML system architecture overview
+: **3**{: .label} Basics: autodiff, ML system architecture overview
   : [Slides](assets/slides/jan14.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/2)
 : **Readings**{: .label .label-reading} **(Due 1/21)**
   * **Required**: [2.1 - TensorFlow](https://arxiv.org/abs/1605.08695), [2.2 - PyTorch](https://arxiv.org/abs/1912.01703)
