@@ -15,7 +15,7 @@ Jan 7
 
 Jan 9
 : **2**{: .label} Basics: Modern DL, computational graph, frameworks
-  : [Slides](assets/slides/jan9.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/1) &#8226; [Scribe Note]()
+  : [Slides](assets/slides/jan9.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/1) &#8226; Scribe Note
 
 
 <!-- : **Readings**{: .label .label-reading} -->
