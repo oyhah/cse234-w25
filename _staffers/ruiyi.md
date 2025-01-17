@@ -5,5 +5,5 @@ pronouns: HE/HIM
 photo: staff/ruiyi.png
 bio: Ruiyi is a PhD student in ECE department.
 role: Teach Assistant
-office-hours: TBD
+office-hours: Every Monday 12-1 pm @ CSE B260A
 ---
