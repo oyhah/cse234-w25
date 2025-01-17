@@ -13,4 +13,4 @@ Jan 14
 
 Jan 16
 : **4**{: .label} Tensor format, matmul deep dive, accelerators
-  : [Slides](assets/slides/jan16.pdf) &#8226; Recording &#8226; Scribe Note
+  : [Slides](assets/slides/jan16.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/3) &#8226; Scribe Note
