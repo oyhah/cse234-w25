@@ -5,7 +5,7 @@ status: Active
 ---
 
 Jan 21
-: **3**{: .label} GPUs and CUDA
+: **5**{: .label} GPUs and CUDA
   : [Slides]() &#8226; [Recording]() &#8226; Scribe Note
 : **Readings**{: .label .label-reading} **(Due 1/28)**
   * **Required**: [3.1 - GPU Performance](https://docs.nvidia.com/deeplearning/performance/index.html#performance-background), [3.2 - MI300X vs H100](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
