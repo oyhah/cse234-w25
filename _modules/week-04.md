@@ -1,6 +1,6 @@
 ---
 title: Week 4
-class: DSC291
+class: CSE234
 status: Active
 ---
 

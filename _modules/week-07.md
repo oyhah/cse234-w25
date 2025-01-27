@@ -1,6 +1,6 @@
 ---
 title: Week 7
-class: DSC291
+class: CSE234
 status: Active
 ---
 
