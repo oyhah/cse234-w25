@@ -1,6 +1,6 @@
 ---
 title: Week 9
-class: DSC291
+class: CSE234
 status: InActive
 ---
 
