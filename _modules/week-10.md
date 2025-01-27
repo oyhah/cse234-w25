@@ -1,7 +1,7 @@
 ---
 title: Week 10
 class: DSC204A
-status: not Active
+status: InActive
 ---
 
 Mar 11

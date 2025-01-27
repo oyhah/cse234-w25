@@ -1,7 +1,7 @@
 ---
 title: Week 5
 class: DSC291
-status: Active
+status: InActive
 ---
 
 Apr 30

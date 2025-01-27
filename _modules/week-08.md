@@ -1,7 +1,7 @@
 ---
 title: Week 8
 class: DSC291
-status: Active
+status: InActive
 ---
 
 May 21
