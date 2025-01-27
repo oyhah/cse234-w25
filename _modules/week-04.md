@@ -4,20 +4,11 @@ class: CSE234
 status: Active
 ---
 
-Apr 23
-: **1**{: .label} Compilation
-  : [Slides](assets/slides/7_compilation.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/7)
-: *Reading:*
-* [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning (required)](https://arxiv.org/pdf/1802.04799) 
-* [TASO: Optimizing Deep Learning Computation with
-Automatic Generation of Graph Substitutions (required)](https://cs.stanford.edu/~padon/taso-sosp19.pdf)
+Jan 28
+: **7**{: .label} DL Compiler
+  : Slides &#8226; Recording &#8226; Scribe Note
+: **Readings**{: .label .label-reading} **(Due 2/4)**
+  * **Required**: [4.1 - TVM](https://arxiv.org/pdf/1802.04799), [4.2 - TASO](https://www.wisdom.weizmann.ac.il/~padon/taso-sosp19.pdf)
+  * **Optional**: [4.3 - Triton](https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf), [4.4 - DL Compiler](https://arxiv.org/pdf/2002.03794), [4.5 - Tensor Comprehensions](https://arxiv.org/abs/1802.04730)
 
 
-
-Apr 25
-: **2**{: .label} Memory Optmizations
-  : [Slides](assets/slides/8_memory.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/8)
-: *Reading:* 
-* [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning (required)](https://arxiv.org/pdf/1802.04799) 
-* [TASO: Optimizing Deep Learning Computation with
-Automatic Generation of Graph Substitutions (required)](https://cs.stanford.edu/~padon/taso-sosp19.pdf)
