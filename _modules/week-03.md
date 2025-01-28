@@ -14,4 +14,4 @@ Jan 21
 
 Jan 23
 : **6**{: .label} GPU matmul, operator compilation
-  : [Slides](assets/slides/jan23.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/4) &#8226; Scribe Note
+  : [Slides](assets/slides/jan23.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/5) &#8226; Scribe Note
