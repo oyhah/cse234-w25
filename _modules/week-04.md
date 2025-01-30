@@ -12,5 +12,5 @@ Jan 28
   * **Optional**: [4.3 - TASO](https://www.wisdom.weizmann.ac.il/~padon/taso-sosp19.pdf), [4.4 - DL Compiler](https://arxiv.org/pdf/2002.03794), [4.5 - Tensor Comprehensions](https://arxiv.org/abs/1802.04730)
 
 Jan 30
-: **8**{: .label} Triton, graph optimization and compilation
+: **8**{: .label} Runtime
   : Slides &#8226; Recording &#8226; Scribe Note
