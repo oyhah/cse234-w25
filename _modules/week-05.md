@@ -8,6 +8,10 @@ Feb 4
 : **9**{: .label} TBD
   : Slides &#8226; Recording &#8226; Scribe Note
 
+: **Readings**{: .label .label-reading} **(Due 2/11)**
+  * **Required**: [5.1 - Deep Compression](https://arxiv.org/abs/1510.00149), [5.2 - Quantization Survey](https://arxiv.org/abs/2103.13630)
+  * **Optional**: [5.3 - AWQ](https://arxiv.org/abs/2306.00978), [5.4 - QLoRA](https://arxiv.org/abs/2305.14314), [5.5 - Scaling Laws for Mixed quantization](https://arxiv.org/abs/2410.06722)
+
 Feb 6
 : **10**{: .label} Guest Lecture by Tianqi Chen
   : Slides &#8226; Recording &#8226; Scribe Note
