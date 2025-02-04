@@ -11,4 +11,3 @@ Feb 4
 Feb 6
 : **10**{: .label} Guest Lecture by Tianqi Chen
   : Slides &#8226; Recording &#8226; Scribe Note
-
