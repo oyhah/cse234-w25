@@ -4,8 +4,7 @@ class: CSE234
 status: Active
 ---
 
-Apr 30
-: **1**{: .label} Guest Lecture by Tianqi Chen
-  : [Slides]() &#8226; [Recording]()
-: *Reading:*
-* []()
+Feb 4
+: **9**{: .label} Guest Lecture by Tianqi Chen
+  : Slides &#8226; Recording &#8226; Scribe Note
+
