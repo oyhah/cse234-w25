@@ -5,7 +5,7 @@ status: Active
 ---
 
 Feb 4
-: **9**{: .label} Data and model parallelism
+: **9**{: .label} Quantization
   : Slides &#8226; Recording &#8226; Scribe Note
 
 : **Readings**{: .label .label-reading} **(Due 2/11)**
