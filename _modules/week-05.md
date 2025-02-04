@@ -5,7 +5,7 @@ status: Active
 ---
 
 Feb 4
-: **9**{: .label} Transformers, LLMs, MoE
+: **9**{: .label} Data and model parallelism
   : Slides &#8226; Recording &#8226; Scribe Note
 
 Feb 6
