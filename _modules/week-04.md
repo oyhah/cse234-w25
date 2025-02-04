@@ -13,4 +13,4 @@ Jan 28
 
 Jan 30
 : **8**{: .label} Memory
-  : [Slides](assets/slides/jan30.pdf) &#8226; Recording &#8226; Scribe Note
+  : [Slides](assets/slides/jan30.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/7) &#8226; Scribe Note
