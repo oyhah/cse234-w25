@@ -5,6 +5,9 @@ status: Active
 ---
 
 Feb 4
-: **9**{: .label} Guest Lecture by Tianqi Chen
+: **9**{: .label} TBD
   : Slides &#8226; Recording &#8226; Scribe Note
 
+Feb 6
+: **10**{: .label} Guest Lecture by Tianqi Chen
+  : Slides &#8226; Recording &#8226; Scribe Note
