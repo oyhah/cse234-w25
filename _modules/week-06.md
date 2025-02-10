@@ -5,7 +5,7 @@ status: Active
 ---
 
 Feb 11
-: **1**{: .label} Parallelization - 2
+: **1**{: .label} Parallelization
   : Slides &#8226; Recording &#8226; Scribe Note
 : **Readings**{: .label .label-reading} **(Due 2/18)**
   * **Required**: [5.1 - Dist Train](https://sumanthrh.com/post/distributed-and-efficient-finetuning/), [5.2 - Megatron](https://arxiv.org/abs/1909.08053)
