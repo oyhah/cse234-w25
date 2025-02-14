@@ -12,5 +12,5 @@ Feb 11
   * **Optional**: [5.3 - Pytorch DDP](https://arxiv.org/abs/2006.15704), [5.4 - Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf), [5.5 - Megatron v2](https://arxiv.org/abs/2104.04473)
 
 Feb 13
-: **12**{: .label} Parallelization-2, collective communication
+: **12**{: .label} Parallelization - 2, collective communication
   : [Slides](assets/slides/feb13.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/11) &#8226; [Scribe Note]()

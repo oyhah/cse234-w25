@@ -1,18 +1,12 @@
 ---
 title: Week 7
 class: CSE234
-status: InActive
+status: Active
 ---
 
-May 14
-: **1**{: .label} Parallelization - 3
-  : [Slides](assets/slides/11_parallelization-3.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/13)
-: *Reading:* 
-* [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (required)](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf)
-
-
-May 16 
-: **2**{: .label} Parallelization - 4
-  : [Slides](assets/slides/12_parallelization-4.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/14)
-: *Reading:* 
-* [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (required)](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf)
+Feb 18
+: **13**{: .label} Parallelization - 3
+  : Slides &#8226; Recording &#8226; Scribe Note
+: **Readings**{: .label .label-reading} **(Due 2/25)**
+  * **Required**: [6.1 - GPipe](https://arxiv.org/abs/1811.06965), [6.2 - Alpa](https://arxiv.org/abs/2201.12023)
+  * **Optional**: [6.3 - Megatron v3](https://arxiv.org/pdf/2205.05198), [6.4 - PipeDream](https://arxiv.org/pdf/1806.03377), [6.5 - Chimera](https://arxiv.org/abs/2107.06925), [6.6 - GShard](https://arxiv.org/abs/2006.16668)
