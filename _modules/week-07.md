@@ -5,7 +5,7 @@ status: Active
 ---
 
 Feb 18
-: **13**{: .label} Parallelization - 3, data parallelism, inter-op and intra-op parallelism
+: **13**{: .label} Parallelization - 3, data, inter- and intra-op parallelism
   : [Slides](assets/slides/feb18.pdf) &#8226; Recording &#8226; Scribe Note
 : **Readings**{: .label .label-reading} **(Due 2/25)**
   * **Required**: [7.1 - GPipe](https://arxiv.org/abs/1811.06965), [7.2 - Alpa](https://arxiv.org/abs/2201.12023)
