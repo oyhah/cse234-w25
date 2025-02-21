@@ -13,5 +13,5 @@ Feb 18
 
 Feb 20
 : **14**{: .label} Guest Lecture by Hector Liu
-  : [Slides]() &#8226; [Recording](https://ucsd.zoom.us/rec/play/MhfQ6KvjiBvIeMTJg0xfbxL_kUDrova7geyjz0KDymk0Eh6BUWzUSEvnPIICGb2I59tU2sRJ7In5zDri.9ZDLWEYCbYDV6yR-?accessLevel=meeting&canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fucsd.zoom.us%2Frec%2Fshare%2FCz9avsJfJpDRuKYe3gMRdl8Nud-1XP0xrlO-3IGBcoOYDZeHg-nDuAp9gZTQ1bEZ.9npXd50KuVWMcuxL%2520Passcode%3A%2520v9%24xBL%245) &#8226; Scribe Note
+  : [Slides](assets/slides/feb20.pdf) &#8226; [Recording](https://ucsd.zoom.us/rec/play/MhfQ6KvjiBvIeMTJg0xfbxL_kUDrova7geyjz0KDymk0Eh6BUWzUSEvnPIICGb2I59tU2sRJ7In5zDri.9ZDLWEYCbYDV6yR-?accessLevel=meeting&canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fucsd.zoom.us%2Frec%2Fshare%2FCz9avsJfJpDRuKYe3gMRdl8Nud-1XP0xrlO-3IGBcoOYDZeHg-nDuAp9gZTQ1bEZ.9npXd50KuVWMcuxL%2520Passcode%3A%2520v9%24xBL%245) &#8226; Scribe Note
   
