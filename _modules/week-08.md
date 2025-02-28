@@ -12,5 +12,5 @@ Feb 25
   * **Optional**: [8.3 - Attention is All You Need](https://arxiv.org/pdf/1706.03762), [8.4 - MoE](https://arxiv.org/pdf/1701.06538), [8.5 - GQA](https://arxiv.org/pdf/2305.13245), [8.6 - Deepseek v3](https://arxiv.org/pdf/2412.19437)
 
 Feb 27
-: **16**{: .label} LLM - 1
-  : Slides &#8226; Recording &#8226; Scribe Note
+: **16**{: .label} LLM - 1: transformers, attention, scaling law
+  : [Slides](assets/slides/feb27.pdf) &#8226; Recording &#8226; Scribe Note
