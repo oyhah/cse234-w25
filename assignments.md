@@ -21,6 +21,15 @@ PA2: Matmul Kernel Optimization & Tensor Parallel Communication
 - Due Date: 03/04/2025
 - Upload tar to Gradescope (add group members if you have them. 1 submission per group is fine!)
 
+PA3: MoE, Scaling Law, Speculative Decoding, and Future of LLMs
+- Release Date: Thursday, 02/27/2025
+- Starter code: [Github](https://github.com/hao-ai-lab/cse234-w25-PA/tree/main/pa3)
+- For Q1-Q3, you can find a group for up to 3 people! You may work alone or find teammates.
+- For Q4, you will work individually to complete an essay. This part is **NOT** a group assignment, and you will be submitting your essay to a separate Gradescope assignment page.
+- Due Date: 03/20/2025
+- Upload tar to Gradescope (add group members if you have them. 1 submission per group is fine!)
+
+
 <!--
 PA3: Tensor Parall Communication
 - Release Date: Wednesday 6/5/2024
@@ -30,52 +39,7 @@ PA3: Tensor Parall Communication
 - Upload tar to Gradescope -->
 
 
-<!--
- PA1: Getting Started with Modin and Ray
-    - Release Date: Monday, 01/18/2024
-    - [Problem Statement and Rubric](assets/assignments/Assignment_1.pdf)
-    - For starter code, please check Canvas.
-    - Discussion by TA: 01/30/2024 (tentative)
-    - Due Date: 02/10/2024
-    - [Discussion Session Slides](https://docs.google.com/presentation/d/1CdgJRWoqFlXc-nqZXx7dLSXOn4jO1WDxhSASRS7auRQ/edit?usp=sharing)
-    - [Discussion Session Notebook](https://colab.research.google.com/drive/1O82mt7sjXoGD8z1U5zj22liU8evb6qtt?usp=sharing)
 
-- PA2: Multi-node data processing and collective communication with Ray
-    - Release Date: Monday, 02/19/2024
-    - [Problem Statement and Rubric](assets/assignments/Assignment_2.pdf)
-    - For code and data, please check [Datahub](https://datahub.ucsd.edu)
-    - Discussion by TA: 02/20/2024 (tentative)
-    - Due Date: 03/04/2024 11:59 PM
-    - [Discussion Session Slides](assets/discussions/pa2_discussion.pdf)
-    - [Discussion Session Notebook](assets/discussions/pa2_discussion.ipynb)
-
-- PA2: Multi-node data processing and collective communication with Ray
-    - Release Date: Monday, 03/05/2024
-    - [Problem Statement and Rubric](assets/assignments/Assignment_3.pdf)
-    - For code and data, please check [Datahub](https://datahub.ucsd.edu)
-    - Due Date: 03/13/2024 01:00 PM
-    - **Note**: The assignment is due in the middle of the day to avoid peak traffic on DataHub. It's 1 PM, not 1 AM!
--->
-
-<!--
-{:.no_toc}
-### Documents and Dates
-- PA0: Setting up AWS and Dask
-    - Release Date: Monday, 04/18/2023
-    - [Statement](resources/PAs/PA0.pdf) and [Grading Rubric](resources/PAs/PA0_Grading_Rubric.pdf)
-    - Discussion by TA: 04/18/2023
-    - Due Date: 04/29/2023
-- PA1: Data Exploration with Dask
-    - Release Date: 04/30/2023
-    - [Statement](resources/PAs/PA1.pdf) and [Grading Rubric](resources/PAs/PA1_Grading_Rubric.pdf)
-    - Discussion by TA: 05/09/2023
-    - Due Date: 05/19/2023 (extended)
-- PA2: Feature Engineering and Model Selection with Spark
-    - Release Date: 05/16/2023
-    - [Statement](resources/PAs/PA2.pdf) and [Grading Rubric](resources/PAs/PA2_Grading_Rubric.pdf)    
-    - Discussion by TA: to be posted on Canvas 05/23/2023
-    - Due Date: 06/09/2023 
--->
 
 
 ### Instructions and Caveats
