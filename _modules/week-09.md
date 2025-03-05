@@ -5,7 +5,7 @@ status: Active
 ---
 
 Mar 4
-: **17**{: .label} TBD
+: **17**{: .label} LLM - 2: Scaling law, MoE, continuous batching, paged attention
   : [Slides](assets/slides/mar4.pdf) &#8226; [Recording]() &#8226; Scribe Note
 : **Readings**{: .label .label-reading} **(Due 3/11)**
   * **Required**: [9.1 - Paged Attention](https://arxiv.org/abs/2309.06180), [9.2 - FlashAttention](https://arxiv.org/abs/2205.14135)
